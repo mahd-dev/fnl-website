@@ -1,0 +1,884 @@
+# Copyright (C) 2015 MailChimp for WordPress
+# This file is distributed under the same license as the MailChimp for WordPress package.
+# Translators:
+# Adnan Uludag <auludag@mac.com>, 2016
+# Alper Çiftçi <inactive+alprciftci@transifex.com>, 2015
+# Emre YILMAZ <emreyilmaz@yandex.com>, 2016
+# Ferhat, 2015
+# Hüseyin Sekmenoğlu <inactive+sekmenhuseyin@transifex.com>, 2015
+# Müge Çevik <muge.cevik@gmail.com>, 2016
+# Murat Aksoy <istanbuldaemlakk@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: MailChimp for WordPress\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mailchimp-for-wp\n"
+"POT-Creation-Date: 2015-11-30 10:15:18+00:00\n"
+"PO-Revision-Date: 2016-11-03 10:33+0000\n"
+"Last-Translator: Müge Çevik <muge.cevik@gmail.com>\n"
+"Language-Team: Turkish (Turkey) (http://www.transifex.com/ibericode/mailchimp-for-wordpress/language/tr_TR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: config/default-form-content.php:3
+msgid "Email address"
+msgstr "E-Posta Adresi"
+
+#: config/default-form-content.php:4
+msgid "Your email address"
+msgstr "E-posta adresiniz"
+
+#: config/default-form-content.php:5
+msgid "Sign up"
+msgstr "Kayıt Ol"
+
+#: config/default-form-messages.php:5
+msgid ""
+"Thank you, your sign-up request was successful! Please check your email "
+"inbox to confirm."
+msgstr "Teşekkürler, kayıt isteğiniz başarıyla tamamlandı! Lütfen onaylamak için gelen kutunuzu kontrol edin."
+
+#: config/default-form-messages.php:9
+msgid "Oops. Something went wrong. Please try again later."
+msgstr "Oops. Bir şeyler yanlış gitti. Lütfen daha sonra tekrar deneyin."
+
+#: config/default-form-messages.php:13
+msgid "Please provide a valid email address."
+msgstr "Lütfen geçerli bir e-posta adresi girin."
+
+#: config/default-form-messages.php:17
+msgid "Given email address is already subscribed, thank you!"
+msgstr "Girilen e-posta adresi zaten kayıtlı, teşekkürler!"
+
+#: config/default-form-messages.php:21
+msgid "Please fill in the required fields."
+msgstr "Lütfen gerekli alanları doldurun."
+
+#: config/default-form-messages.php:25
+msgid "You were successfully unsubscribed."
+msgstr "Listeden başarıylla çıktınız"
+
+#: config/default-form-messages.php:29
+msgid "Given email address is not subscribed."
+msgstr "Verilen e-posta adresi listeye eklenmemiştir"
+
+#: config/default-form-messages.php:33
+msgid "Please select at least one list."
+msgstr "Lütfen en az bir liste seçiniz."
+
+#: config/default-integration-options.php:5
+msgid "Sign me up for the newsletter!"
+msgstr "Beni haber bültenine kaydet!"
+
+#: includes/admin/class-admin-texts.php:62
+#: includes/forms/views/edit-form.php:6
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: includes/admin/class-admin-texts.php:80
+msgid "Documentation"
+msgstr "Belgeleme"
+
+#: includes/admin/class-admin.php:167
+msgid ""
+"Success! The cached configuration for your MailChimp lists has been renewed."
+msgstr "Tebrikler! MailChimp listeniz için ön belleğe alınmış ayarlar yenilendi."
+
+#: includes/admin/class-admin.php:257
+msgid ""
+"This is a pro-only feature. Please upgrade to the premium version to be able"
+" to use it."
+msgstr "Bu sadece ücretli versiyon özelliğidir. Bu özelliği kullanmak için lütfen bir ücretli abonelik satın alın."
+
+#: includes/admin/class-admin.php:323 includes/views/general-settings.php:28
+msgid "MailChimp API Settings"
+msgstr "MailChimp API Ayarları"
+
+#: includes/admin/class-admin.php:324
+#: integrations/ninja-forms/class-ninja-forms.php:34
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: includes/admin/class-ads.php:33
+msgid "Upgrade to MailChimp for WordPress Pro"
+msgstr "WordPress için MailChimp Pro'ya Yükseltin"
+
+#: includes/admin/class-ads.php:41
+msgid ""
+"Enjoying this plugin? <a href=\"%s\">Purchase our bundle of premium "
+"features</a> for an even better plugin."
+msgstr ""
+
+#: includes/admin/class-ads.php:62
+msgid "More subscribers, better newsletters."
+msgstr "Daha fazla üye, daha iyi duyuru listesi."
+
+#: includes/admin/class-ads.php:63
+msgid ""
+"Learn how to best grow your lists & write better emails by subscribing to "
+"our monthly tips."
+msgstr "Aylık ipuçlarımıza üye olarak, listelerinizi nasıl büyüteceğinizi ve daha iyi posta yazacağınızı öğrenin."
+
+#: includes/admin/class-ads.php:66
+msgid "Email Address"
+msgstr "Eposta Adresi"
+
+#: includes/admin/class-ads.php:70
+msgid "First Name"
+msgstr "Ad"
+
+#: includes/admin/class-ads.php:77
+msgid "Subscribe"
+msgstr "Abone ol"
+
+#: includes/admin/class-usage-tracking.php:57
+msgid "Once a month"
+msgstr "Ayda bir"
+
+#: includes/admin/migrations/3.0-form-1-post-type.php:35
+msgid "Default sign-up form"
+msgstr "Varsayılan Kayıt Formu"
+
+#: includes/class-api.php:83
+msgid "Read more about common connectivity issues."
+msgstr "Temel bağlantı problemleri hakkında daha fazlasını okuyun. "
+
+#: includes/forms/class-admin.php:71 includes/forms/class-admin.php:72
+#: includes/forms/views/edit-form.php:17
+msgid "Forms"
+msgstr "Formlar"
+
+#: includes/forms/class-admin.php:101 includes/forms/class-admin.php:176
+msgid "<strong>Success!</strong> Form successfully saved."
+msgstr "<strong>Başarılı!</strong> Form başarıyla kaydedildi."
+
+#: includes/forms/class-admin.php:176
+msgid "Preview form"
+msgstr "Formun öngörünümüne bak"
+
+#: includes/forms/class-admin.php:279
+msgid "Form not found."
+msgstr "Form bulunamadı"
+
+#: includes/forms/class-admin.php:281
+msgid "Go back"
+msgstr "Geri dön"
+
+#: includes/forms/class-form-previewer.php:162
+msgid "Form preview"
+msgstr "Form önizleme"
+
+#: includes/forms/class-form-tags.php:51
+msgid "Replaced with the form response (error or success messages)."
+msgstr "Form cevaplarıyla değiştirildi (hata yada başarı mesajları)."
+
+#: includes/forms/class-form-tags.php:56
+msgid "Data from the URL or a submitted form."
+msgstr "Bir URL'den yada gönderilmiş formdan veri."
+
+#: includes/forms/class-form-tags.php:62
+#: includes/integrations/class-integration-tags.php:45
+msgid "Replaced with the number of subscribers on the selected list(s)"
+msgstr "Seçili liste(ler)deki abonelerin sayısı ile değiştirildi."
+
+#: includes/forms/class-form-tags.php:67
+msgid "The email address of the current visitor (if known)."
+msgstr "Geçerli ziyaretçinin mail adresi (mümkünse)."
+
+#: includes/forms/class-form-tags.php:72
+msgid "The URL of the page."
+msgstr "Sayfanın Linki"
+
+#: includes/forms/class-form-tags.php:77
+msgid "The path of the page."
+msgstr "Sayfanın yolu"
+
+#: includes/forms/class-form-tags.php:82
+msgid "The current date. Example: %s."
+msgstr "Geçerli tarih: Örneğin: %s."
+
+#: includes/forms/class-form-tags.php:87
+msgid "The current time. Example: %s."
+msgstr "Geçerli zaman. Örneğin: %s."
+
+#: includes/forms/class-form-tags.php:92
+msgid "The site's language. Example: %s."
+msgstr "Sitenin dili. Örneğin: %s."
+
+#: includes/forms/class-form-tags.php:97
+msgid "The visitor's IP address. Example: %s."
+msgstr "Ziyaretçinin IP adresi. Örneğin: %s."
+
+#: includes/forms/class-form-tags.php:102
+msgid "The property of the currently logged-in user."
+msgstr ""
+
+#: includes/forms/class-form.php:128
+msgid "There is no form with ID %d, perhaps it was deleted?"
+msgstr ""
+
+#: includes/forms/class-widget.php:26
+msgid "Newsletter"
+msgstr "Haber Bülteni"
+
+#: includes/forms/class-widget.php:30
+msgid "MailChimp Sign-Up Form"
+msgstr "MailChimp Kayıt Formu"
+
+#: includes/forms/class-widget.php:32
+msgid "Displays your MailChimp for WordPress sign-up form"
+msgstr "WordPress için MailChimp kayıt formunuzu görüntüler"
+
+#: includes/forms/class-widget.php:75
+msgid "Title:"
+msgstr "Başlık"
+
+#: includes/forms/class-widget.php:92
+msgid ""
+"You can edit your sign-up form in the <a href=\"%s\">MailChimp for WordPress"
+" form settings</a>."
+msgstr "Kayıt formunuzu <a href=\"%s\">WordPress için MailChimp form ayarlarından</a> düzenleyebilirsiniz."
+
+#: includes/forms/views/add-form.php:10 includes/forms/views/add-form.php:60
+msgid "Add new form"
+msgstr "Yeni form oluştur."
+
+#: includes/forms/views/add-form.php:27
+msgid "What is the name of this form?"
+msgstr "Bu formun adı ne olacak?"
+
+#: includes/forms/views/add-form.php:30
+msgid "Enter your form title.."
+msgstr "Form başlığı girin"
+
+#: includes/forms/views/add-form.php:37
+msgid "To which MailChimp lists should this form subscribe?"
+msgstr "Bu formdan gelen veri hangi MailChimp listesine kayıt edilecek?"
+
+#: includes/forms/views/add-form.php:54
+msgid "No lists found. Did you <a href=\"%s\">connect with MailChimp</a>?"
+msgstr "Liste bulunamadı. <a href=\"%s\">MailChimp ile bağlandınız mı?</a>"
+
+#: includes/forms/views/edit-form.php:4
+msgid "Fields"
+msgstr "Alanlar"
+
+#: includes/forms/views/edit-form.php:5
+msgid "Messages"
+msgstr "Mesajlar"
+
+#: includes/forms/views/edit-form.php:7
+msgid "Appearance"
+msgstr "Görünüm"
+
+#: includes/forms/views/edit-form.php:15
+#: includes/integrations/views/integration-settings.php:8
+#: includes/integrations/views/integrations.php:7
+#: includes/views/general-settings.php:7
+msgid "You are here: "
+msgstr "Buradasınız"
+
+#: includes/forms/views/edit-form.php:27
+msgid "Edit Form"
+msgstr "Formu Düzenle"
+
+#: includes/forms/views/edit-form.php:45
+msgid "Enter form title here"
+msgstr "Form başlığını buraya girin"
+
+#: includes/forms/views/edit-form.php:46
+msgid "Enter the title of your sign-up form"
+msgstr "Kayıt formunuz içi başlığı giriniz"
+
+#: includes/forms/views/edit-form.php:54
+msgid "Get shortcode"
+msgstr "KısaKod al"
+
+#: includes/forms/views/edit-form.php:59
+msgid "Preview this form"
+msgstr "Bu formu önizle"
+
+#: includes/forms/views/parts/add-fields-help.php:4
+#: includes/forms/views/tabs/form-fields.php:10
+msgid "Add more fields"
+msgstr "Daha fazla alan ekle"
+
+#: includes/forms/views/parts/add-fields-help.php:9
+msgid ""
+"To add more fields to your form, you will need to create those fields in "
+"MailChimp first."
+msgstr "Formuna daha fazla alan eklemek için, MailChimp üzerinde bu alanları oluşturman gerekecek."
+
+#: includes/forms/views/parts/add-fields-help.php:12
+msgid "Here's how:"
+msgstr "Buradaki gibi:"
+
+#: includes/forms/views/parts/add-fields-help.php:17
+msgid "Log in to your MailChimp account."
+msgstr "MailChimp hesabınıza giriş yapın."
+
+#: includes/forms/views/parts/add-fields-help.php:22
+msgid "Add list fields to any of your selected lists."
+msgstr "Seçili listelerinizden birine liste alanı ekleyin."
+
+#: includes/forms/views/parts/add-fields-help.php:23
+msgid "Clicking the following links will take you to the right screen."
+msgstr "Doğru ekrana bağlanmak için linklere tıklayın."
+
+#: includes/forms/views/parts/add-fields-help.php:29
+msgid "Edit list fields for"
+msgstr "Liste alanlarını düzenleyin"
+
+#: includes/forms/views/parts/add-fields-help.php:38
+msgid ""
+"Click the following button to have MailChimp for WordPress pick up on your "
+"changes."
+msgstr "MailChimp For Wordpress eklentisinin değişikleri algılaması için aşağıdaki tuşa basın."
+
+#: includes/forms/views/parts/add-fields-help.php:43
+#: includes/views/parts/lists-overview.php:8
+msgid "Renew MailChimp lists"
+msgstr "MailChimp listelerini yenileyin"
+
+#: includes/forms/views/parts/dynamic-content-tags.php:6
+msgid "Add dynamic form variable"
+msgstr "Dinamik form değişkeni ekle"
+
+#: includes/forms/views/parts/dynamic-content-tags.php:8
+msgid ""
+"The following list of variables can be used to <a href=\"%s\">add some "
+"dynamic content to your form or success and error messages</a>."
+msgstr ""
+
+#: includes/forms/views/parts/dynamic-content-tags.php:8
+msgid "This allows you to personalise your form or response messages."
+msgstr "Bu, form ve cevap mesajlarını kişiselleştirebilmenizi sağlar."
+
+#: includes/forms/views/tabs/form-appearance.php:5
+msgid "Inherit from %s theme"
+msgstr "%s temasından oluşturulmuştur."
+
+#: includes/forms/views/tabs/form-appearance.php:6
+msgid "Basic"
+msgstr "Temel"
+
+#: includes/forms/views/tabs/form-appearance.php:7
+msgid "Form Themes"
+msgstr "Form Şablonları"
+
+#: includes/forms/views/tabs/form-appearance.php:8
+msgid "Light Theme"
+msgstr "Açık Renk Tema"
+
+#: includes/forms/views/tabs/form-appearance.php:9
+msgid "Dark Theme"
+msgstr "Koyu Renk Tema"
+
+#: includes/forms/views/tabs/form-appearance.php:10
+msgid "Red Theme"
+msgstr "Kırmızı Tema"
+
+#: includes/forms/views/tabs/form-appearance.php:11
+msgid "Green Theme"
+msgstr "Yeşil Tema"
+
+#: includes/forms/views/tabs/form-appearance.php:12
+msgid "Blue Theme"
+msgstr "Mavi Tema"
+
+#: includes/forms/views/tabs/form-appearance.php:25
+msgid "Form Appearance"
+msgstr "Form Görünümü"
+
+#: includes/forms/views/tabs/form-appearance.php:29
+msgid "Form Style"
+msgstr "Form Stili"
+
+#: includes/forms/views/tabs/form-appearance.php:48
+msgid ""
+"If you want to load some default CSS styles, select \"basic formatting "
+"styles\" or choose one of the color themes"
+msgstr "Eğer varsayılan CSS stilleri yüklemek istiyorsanız, \"temel biçimlendirme stilleri\" seçeneğini veya renk temalarından birini seçin"
+
+#: includes/forms/views/tabs/form-fields.php:6
+msgid "Form variables"
+msgstr "Form değişkenleri"
+
+#: includes/forms/views/tabs/form-fields.php:13
+msgid "Form Fields"
+msgstr "Form Alanları"
+
+#: includes/forms/views/tabs/form-fields.php:19
+msgid "Enter the HTML code for your form fields.."
+msgstr "Form alanları için HTML kodu girin.."
+
+#: includes/forms/views/tabs/form-fields.php:27
+msgid "Your form is missing the following (required) form fields:"
+msgstr "Formunuzun aşağıdaki alanları eksiktir."
+
+#: includes/forms/views/tabs/form-fields.php:34
+msgid ""
+"Use the shortcode %s to display this form inside a post, page or text "
+"widget."
+msgstr "Bu formu bir yazının, sayfanın ya da metin aracının içerisinde görüntülemek için %s kısa kodunu kullanın."
+
+#: includes/forms/views/tabs/form-messages.php:3
+msgid "Form Messages"
+msgstr "Form Mesajları"
+
+#: includes/forms/views/tabs/form-messages.php:10
+msgid "Successfully subscribed"
+msgstr "Başarıyla eklendi"
+
+#: includes/forms/views/tabs/form-messages.php:13
+msgid ""
+"The text that shows when an email address is successfully subscribed to the "
+"selected list(s)."
+msgstr "Bu metin, seçili liste(ler)ye başarılı bir eposta kaydı olduğunda görüntülenir."
+
+#: includes/forms/views/tabs/form-messages.php:17
+msgid "Invalid email address"
+msgstr "Geçersiz eposta adresi"
+
+#: includes/forms/views/tabs/form-messages.php:20
+msgid "The text that shows when an invalid email address is given."
+msgstr "Bu metin hatalı bir eposta girildiğinde görüntülenir."
+
+#: includes/forms/views/tabs/form-messages.php:24
+msgid "Required field missing"
+msgstr "Gerekli bir alan boş bırakıldı"
+
+#: includes/forms/views/tabs/form-messages.php:27
+msgid ""
+"The text that shows when a required field for the selected list(s) is "
+"missing."
+msgstr "Bu metin, seçili liste(ler) için gerekli bir alan eksik girildiğinde görüntülenir."
+
+#: includes/forms/views/tabs/form-messages.php:31
+msgid "Already subscribed"
+msgstr "Zaten abone"
+
+#: includes/forms/views/tabs/form-messages.php:34
+msgid ""
+"The text that shows when the given email is already subscribed to the "
+"selected list(s)."
+msgstr "Bu metin, seçili liste(ler)de zaten varolan bir eposta adresi girildiğinde görüntülenir."
+
+#: includes/forms/views/tabs/form-messages.php:38
+msgid "General error"
+msgstr "Genel hata"
+
+#: includes/forms/views/tabs/form-messages.php:41
+msgid "The text that shows when a general error occured."
+msgstr "Genel bir hata oluştuğunda görüntülenen yazı"
+
+#: includes/forms/views/tabs/form-messages.php:45
+msgid "Unsubscribed"
+msgstr "Listeden Çıktınız"
+
+#: includes/forms/views/tabs/form-messages.php:48
+msgid ""
+"When using the unsubscribe method, this is the text that shows when the "
+"given email address is successfully unsubscribed from the selected list(s)."
+msgstr "Abonelikten çıkma işlemi gerçekleştirilmek istendiğinde, bu metin seçili liste(ler)den eposta adresi başarıyla silindiğinde görüntülenir."
+
+#: includes/forms/views/tabs/form-messages.php:52
+msgid "Not subscribed"
+msgstr "Kayıt olmamış"
+
+#: includes/forms/views/tabs/form-messages.php:55
+msgid ""
+"When using the unsubscribe method, this is the text that shows when the "
+"given email address is not on the selected list(s)."
+msgstr "Abonelikten çıkma işlemi gerçekleştirilmek istendiğinde, bu metin seçili liste(ler)de eposta adresi yoksa görüntülenir."
+
+#: includes/forms/views/tabs/form-messages.php:64
+msgid "HTML tags like %s are allowed in the message fields."
+msgstr "Mesaj alanlarında %s gibi HTML etiketlerini kullanabilirsiniz."
+
+#: includes/forms/views/tabs/form-settings.php:1
+msgid "Form Settings"
+msgstr "Form Ayarları"
+
+#: includes/forms/views/tabs/form-settings.php:5
+msgid "MailChimp specific settings"
+msgstr "MailChimp'e özel ayarlar"
+
+#: includes/forms/views/tabs/form-settings.php:12
+msgid "Lists this form subscribes to"
+msgstr ""
+
+#: includes/forms/views/tabs/form-settings.php:15
+#: includes/integrations/views/integration-settings.php:93
+msgid "No lists found, <a href=\"%s\">are you connected to MailChimp</a>?"
+msgstr "Hiç liste bulunamadı, <a href=\"%s\">MailChimp'e bağlı olduğunuzdan emin misiniz</a>?"
+
+#: includes/forms/views/tabs/form-settings.php:29
+msgid ""
+"Select the list(s) to which people who submit this form should be "
+"subscribed."
+msgstr ""
+
+#: includes/forms/views/tabs/form-settings.php:35
+msgid "Use double opt-in?"
+msgstr ""
+
+#: includes/forms/views/tabs/form-settings.php:39
+#: includes/forms/views/tabs/form-settings.php:54
+#: includes/forms/views/tabs/form-settings.php:69
+#: includes/forms/views/tabs/form-settings.php:85
+#: includes/forms/views/tabs/form-settings.php:115
+#: includes/integrations/views/integration-settings.php:53
+#: includes/integrations/views/integration-settings.php:66
+#: includes/integrations/views/integration-settings.php:117
+#: includes/integrations/views/integration-settings.php:129
+#: includes/integrations/views/integration-settings.php:142
+#: includes/integrations/views/integration-settings.php:163
+#: includes/integrations/views/integration-settings.php:180
+#: includes/integrations/views/integration-settings.php:199
+#: integrations/contact-form-7/class-contact-form-7.php:69
+msgid "Yes"
+msgstr "Evet"
+
+#: includes/forms/views/tabs/form-settings.php:43
+#: includes/forms/views/tabs/form-settings.php:58
+#: includes/forms/views/tabs/form-settings.php:73
+#: includes/forms/views/tabs/form-settings.php:89
+#: includes/forms/views/tabs/form-settings.php:119
+#: includes/integrations/views/integration-settings.php:54
+#: includes/integrations/views/integration-settings.php:67
+#: includes/integrations/views/integration-settings.php:118
+#: includes/integrations/views/integration-settings.php:130
+#: includes/integrations/views/integration-settings.php:146
+#: includes/integrations/views/integration-settings.php:167
+#: includes/integrations/views/integration-settings.php:184
+#: includes/integrations/views/integration-settings.php:203
+#: integrations/contact-form-7/class-contact-form-7.php:69
+msgid "No"
+msgstr "Hayır"
+
+#: includes/forms/views/tabs/form-settings.php:45
+#: includes/integrations/views/integration-settings.php:149
+msgid ""
+"Select \"yes\" if you want people to confirm their email address before "
+"being subscribed (recommended)"
+msgstr "Ziyaretçilerinizin abone olmadan önce e-posta adreslerini onaylamalarını istiyorsanız \"evet\" seçeneğini seçin (önerilen)."
+
+#: includes/forms/views/tabs/form-settings.php:50
+msgid "Send final welcome email?"
+msgstr "Son hoşgeldiniz postası gönderilsin mi?"
+
+#: includes/forms/views/tabs/form-settings.php:60
+#: includes/integrations/views/integration-settings.php:169
+msgid ""
+"Select \"yes\" if you want to send your lists Welcome Email if a subscribe "
+"succeeds (only when double opt-in is disabled)."
+msgstr "Listelerinizin başarılı bir abonelik işleminden sonra bir \"Hoşgeldin Mesajı\" göndermesini istiyorsanız \"evet\" seçeneğini seçin (double opt-in devre dışı iken kullanılır)"
+
+#: includes/forms/views/tabs/form-settings.php:65
+#: includes/integrations/views/integration-settings.php:176
+msgid "Update existing subscribers?"
+msgstr "Mevcut aboneler güncellensin mi?"
+
+#: includes/forms/views/tabs/form-settings.php:75
+#: includes/integrations/views/integration-settings.php:186
+msgid ""
+"Select \"yes\" if you want to update existing subscribers with the data that"
+" is sent."
+msgstr "Gönderdiğiniz verilerle var olan aboneleri güncellemek için \"evet\" i seçiniz."
+
+#: includes/forms/views/tabs/form-settings.php:81
+#: includes/integrations/views/integration-settings.php:195
+msgid "Replace interest groups?"
+msgstr "İlgilenilen gruplar (?) değiştirilsin mi?"
+
+#: includes/forms/views/tabs/form-settings.php:92
+#: includes/integrations/views/integration-settings.php:206
+msgid ""
+"Select \"no\" if you want to add the selected groupings to any previously "
+"selected groupings when updating a subscriber."
+msgstr ""
+
+#: includes/forms/views/tabs/form-settings.php:93
+#: includes/integrations/views/integration-settings.php:207
+msgid "What does this do?"
+msgstr "Bu ne yapar?"
+
+#: includes/forms/views/tabs/form-settings.php:104
+msgid "Form behaviour"
+msgstr "Form özelliği"
+
+#: includes/forms/views/tabs/form-settings.php:111
+msgid "Hide form after a successful sign-up?"
+msgstr "Başarılı bir abonelik işleminden sonra form gizlensin mi?"
+
+#: includes/forms/views/tabs/form-settings.php:122
+msgid "Select \"yes\" to hide the form fields after a successful sign-up."
+msgstr "Başarılı bir kayıt işleminden sonra form alanlarının gizlenmesi için \"evet\" seçeneğini seçin."
+
+#: includes/forms/views/tabs/form-settings.php:127
+msgid "Redirect to URL after successful sign-ups"
+msgstr "Başarılı kayıtlardan sonra bir URL'ye yönlendir"
+
+#: includes/forms/views/tabs/form-settings.php:129
+msgid "Example: %s"
+msgstr "Örnek: %s"
+
+#: includes/forms/views/tabs/form-settings.php:130
+msgid ""
+"Leave empty or enter <code>0</code> for no redirect. Otherwise, use complete"
+" (absolute) URLs, including <code>http://</code>."
+msgstr ""
+
+#: includes/integrations/class-admin.php:79
+#: includes/integrations/class-admin.php:80
+#: includes/integrations/views/integration-settings.php:10
+#: includes/integrations/views/integrations.php:9
+#: includes/integrations/views/integrations.php:17
+msgid "Integrations"
+msgstr "Eklentiler"
+
+#: includes/integrations/views/integration-settings.php:20
+msgid "%s integration"
+msgstr "%s eklenti"
+
+#: includes/integrations/views/integration-settings.php:51
+msgid "Enabled?"
+msgstr "Etkin mi?"
+
+#: includes/integrations/views/integration-settings.php:55
+msgid ""
+"Enable the %s integration? This will add a sign-up checkbox to the form."
+msgstr "%s eklentisi etkinleştirilsin mi? Bu forma kayıt ol seçeneği ekleyecek."
+
+#: includes/integrations/views/integration-settings.php:64
+msgid "Implicit?"
+msgstr "Kesin mi?"
+
+#: includes/integrations/views/integration-settings.php:68
+msgid ""
+"Select \"no\" if you want to ask your visitors before they are subscribed "
+"(recommended)."
+msgstr ""
+
+#: includes/integrations/views/integration-settings.php:78
+msgid "MailChimp Lists"
+msgstr "MailChimp Listeleri"
+
+#: includes/integrations/views/integration-settings.php:89
+msgid ""
+"Select the list(s) to which people who check the checkbox should be "
+"subscribed."
+msgstr "Onay kutusunu seçen kişilerin abone olacağı listeleri seçin."
+
+#: includes/integrations/views/integration-settings.php:102
+msgid "Checkbox label text"
+msgstr "Onay kutusu etiket metni"
+
+#: includes/integrations/views/integration-settings.php:105
+msgid "HTML tags like %s are allowed in the label text."
+msgstr "Etiket metninde %s gibi HTML etiketlerine izin verilmektedir."
+
+#: includes/integrations/views/integration-settings.php:115
+msgid "Pre-check the checkbox?"
+msgstr "Onay kutusu önceden işaretlensin mi?"
+
+#: includes/integrations/views/integration-settings.php:119
+msgid "Select \"yes\" if the checkbox should be pre-checked."
+msgstr ""
+
+#: includes/integrations/views/integration-settings.php:127
+msgid "Load some default CSS?"
+msgstr "Varsayılan CSS yüklensin mi?"
+
+#: includes/integrations/views/integration-settings.php:131
+msgid "Select \"yes\" if the checkbox appears in a weird place."
+msgstr "Onay kutusu garip bir yerde görünürse \"evet\" seçeneğini seçin."
+
+#: includes/integrations/views/integration-settings.php:138
+msgid "Double opt-in?"
+msgstr "Üye Doğrulama?"
+
+#: includes/integrations/views/integration-settings.php:159
+msgid "Send Welcome Email?"
+msgstr "Hoşgeldin Mesajı gönderilsin mi?"
+
+#: includes/integrations/views/integration-settings.php:244
+msgid ""
+"The selected MailChimp lists require non-default fields, which may prevent "
+"this integration from working."
+msgstr "Seçilen MailChimp listeleleri bu entegrasyonun çalışmasını engelleyebilecek varsayılan olmayan alanlar gerektirmektedir."
+
+#: includes/integrations/views/integration-settings.php:245
+msgid ""
+"Please ensure you <a href=\"%s\">configure the plugin to send all required "
+"fields</a> or <a href=\"%s\">log into your MailChimp account</a> and make "
+"sure only the email & name fields are marked as required fields for the "
+"selected list(s)."
+msgstr ""
+
+#: includes/integrations/views/integrations.php:30
+msgid "Enabled"
+msgstr "Etkinleştirilmiş"
+
+#: includes/integrations/views/integrations.php:31
+msgid "Name"
+msgstr "Ad Soyad"
+
+#: includes/integrations/views/integrations.php:32
+msgid "Description"
+msgstr "Tanım"
+
+#: includes/integrations/views/integrations.php:50
+msgid ""
+"This integration is enabled by default as it requires manual actions to "
+"work."
+msgstr "Bu entegrasyon çalışmak için manuel işlemlere ihtiyaç duyduğundan varsayılan olarak etkinleştirilmiştir."
+
+#: includes/integrations/views/integrations.php:57
+msgid "Configure this integration"
+msgstr "Bu entegrasyonu konfigüre edin"
+
+#: includes/views/general-settings.php:18
+msgid "General Settings"
+msgstr "Genel Ayarlar"
+
+#: includes/views/general-settings.php:35
+msgid "Status"
+msgstr "Durum"
+
+#: includes/views/general-settings.php:39
+msgid "CONNECTED"
+msgstr "BAĞLANDI"
+
+#: includes/views/general-settings.php:41
+msgid "NOT CONNECTED"
+msgstr "BAĞLANMADI"
+
+#: includes/views/general-settings.php:48
+msgid "API Key"
+msgstr "API Anahtarı"
+
+#: includes/views/general-settings.php:50
+msgid "Your MailChimp API key"
+msgstr "MailChimp API anahtarınız"
+
+#: includes/views/general-settings.php:52
+msgid "The API key for connecting with your MailChimp account."
+msgstr "Mailchimp hesabınızın bağlanması için gerekli API anahtarı"
+
+#: includes/views/general-settings.php:53
+msgid "Get your API key here."
+msgstr "API anahtarınızı buradan alın."
+
+#: includes/views/general-settings.php:65
+msgid "Usage Tracking"
+msgstr ""
+
+#: includes/views/general-settings.php:71
+msgid ""
+"Allow us to anonymously track how this plugin is used to help us make it "
+"better fit your needs."
+msgstr ""
+
+#: includes/views/general-settings.php:73
+msgid "This is what we track."
+msgstr ""
+
+#: includes/views/parts/admin-footer.php:11
+msgid ""
+"MailChimp for WordPress is in need of translations. Is the plugin not "
+"translated in your language or do you spot errors with the current "
+"translations? Helping out is easy! Head over to <a href=\"%s\">the "
+"translation project and click \"help translate\"</a>."
+msgstr ""
+
+#: includes/views/parts/admin-footer.php:31
+msgid ""
+"This plugin is not developed by or affiliated with MailChimp in any way."
+msgstr ""
+
+#: includes/views/parts/lists-overview.php:1
+msgid "Your MailChimp Account"
+msgstr ""
+
+#: includes/views/parts/lists-overview.php:2
+msgid ""
+"The table below shows your MailChimp lists and their details. If you just "
+"applied changes to your MailChimp lists, please use the following button to "
+"renew the cached lists configuration."
+msgstr ""
+
+#: includes/views/parts/lists-overview.php:14
+msgid "No lists were found in your MailChimp account"
+msgstr "MailChimp hesabınızda hiç liste bulunmamakta."
+
+#: includes/views/parts/lists-overview.php:16
+msgid "A total of %d lists were found in your MailChimp account."
+msgstr ""
+
+#: includes/views/parts/lists-overview.php:21
+msgid "List Name"
+msgstr ""
+
+#: includes/views/parts/lists-overview.php:22
+msgid "ID"
+msgstr "ID"
+
+#: includes/views/parts/lists-overview.php:23
+msgid "Subscribers"
+msgstr ""
+
+#: includes/views/parts/lists-overview.php:45
+msgid "Edit this list in MailChimp"
+msgstr ""
+
+#: includes/views/parts/lists-overview.php:59
+msgid "%s (%s) with field type %s."
+msgstr ""
+
+#: includes/views/parts/lists-overview.php:83
+msgid "%s (ID: %s) with type %s."
+msgstr "%s (ID: %s) %s tipi ile"
+
+#: integrations/contact-form-7/admin-before.php:2
+msgid ""
+"To integrate with Contact Form 7, configure the settings below and then add "
+"%s to your CF7 form mark-up."
+msgstr ""
+
+#: integrations/custom/admin-before.php:2
+msgid ""
+"To get a custom integration to work, include the following HTML in the form "
+"you are trying to integrate with."
+msgstr ""
+
+#: integrations/woocommerce/class-woocommerce.php:102
+msgid "Order #%d"
+msgstr "Sipariş #%d"
+
+#. Plugin Name of the plugin/theme
+msgid "MailChimp for WordPress"
+msgstr "MailChimp for WordPress"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://mc4wp.com/#utm_source=wp-plugin&utm_medium=mailchimp-for-"
+"wp&utm_campaign=plugins-page"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"MailChimp for WordPress by ibericode. Adds various highly effective sign-up "
+"methods to your site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ibericode"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://ibericode.com/"
+msgstr ""

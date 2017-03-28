@@ -1,0 +1,736 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Themeum Eventum\n"
+"POT-Creation-Date: 2016-09-28 12:51+0600\n"
+"PO-Revision-Date: 2016-09-28 12:51+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: post-type/meta-box/inc/clone.php:94
+msgid "+ Add more"
+msgstr ""
+
+#: post-type/meta-box/inc/core.php:41
+msgid "Documentation"
+msgstr ""
+
+#: post-type/meta-box/inc/core.php:42
+msgid "Extensions"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/autocomplete.php:23
+#: post-type/meta-box/inc/fields/autocomplete.php:87
+#: post-type/meta-box/inc/fields/autocomplete.php:104
+msgid "Delete"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/button.php:29
+msgid "Click me"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/checkbox.php:56
+msgid "Yes"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/checkbox.php:56
+msgid "No"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-input.php:25
+msgid "Select File"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-input.php:49
+#: post-type/meta-box/inc/fields/select.php:91
+msgid "Select"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file-input.php:51
+msgid "Remove"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:24
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:25
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:85
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:98
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:99
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:162
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/file.php:163
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/map.php:58
+msgid "Find Address"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:25
+msgctxt "media"
+msgid "+ Add Media"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:26
+msgctxt "media"
+msgid " file"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:27
+msgctxt "media"
+msgid " files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:28
+msgctxt "media"
+msgid "Remove"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:29
+msgctxt "media"
+msgid "Edit"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:30
+msgctxt "media"
+msgid "View"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:31
+msgctxt "media"
+msgid "No Title"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:34
+msgctxt "media"
+msgid "Select Files"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:35
+msgctxt "media"
+msgid "or"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/media.php:36
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/oembed.php:65
+msgid "Embed HTML not available."
+msgstr ""
+
+#: post-type/meta-box/inc/fields/oembed.php:81
+msgid "Preview"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/post.php:34
+msgid "Select a post"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/post.php:38
+#: post-type/meta-box/inc/fields/taxonomy.php:51
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/select-advanced.php:44
+msgid "Select an item"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/select.php:91
+msgid "All"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/select.php:91
+msgid "None"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/taxonomy.php:47
+msgid "Select a term"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/thickbox-image.php:53
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: post-type/meta-box/inc/fields/user.php:34
+msgid "Select an user"
+msgstr ""
+
+#: post-type/meta-box/inc/validation.php:56
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: post-type/meta_box.php:67
+msgid "Speaker Infomation"
+msgstr ""
+
+#: post-type/meta_box.php:75
+msgid "Designation"
+msgstr ""
+
+#: post-type/meta_box.php:81
+msgid "Facebook URL"
+msgstr ""
+
+#: post-type/meta_box.php:87
+msgid "Soundcloud URL"
+msgstr ""
+
+#: post-type/meta_box.php:93
+msgid "Twitter URL"
+msgstr ""
+
+#: post-type/meta_box.php:99
+msgid "Google Plus  URL"
+msgstr ""
+
+#: post-type/meta_box.php:105
+msgid "Pinterest URL"
+msgstr ""
+
+#: post-type/meta_box.php:111
+msgid "Youtube URL"
+msgstr ""
+
+#: post-type/meta_box.php:117
+msgid "Linkedin URL"
+msgstr ""
+
+#: post-type/meta_box.php:123
+msgid "Dribbble URL"
+msgstr ""
+
+#: post-type/meta_box.php:129
+msgid "Behance URL"
+msgstr ""
+
+#: post-type/meta_box.php:135
+msgid "Flickr URL"
+msgstr ""
+
+#: post-type/meta_box.php:141
+msgid "VK URL"
+msgstr ""
+
+#: post-type/meta_box.php:147
+msgid "Skype URL"
+msgstr ""
+
+#: post-type/meta_box.php:153
+msgid "Instagram URL"
+msgstr ""
+
+#: post-type/meta_box.php:166 post-type/meta_box.php:174
+msgid "Gallery Items"
+msgstr ""
+
+#: post-type/meta_box.php:187
+msgid "Schedule Infomation"
+msgstr ""
+
+#: post-type/meta_box.php:195
+msgid "Date of Event"
+msgstr ""
+
+#: post-type/meta_box.php:202
+msgid "Event Information"
+msgstr ""
+
+#: post-type/meta_box.php:209 shortcodes/schedules-tab.php:104
+#: shortcodes/schedules.php:48
+msgid "Session"
+msgstr ""
+
+#: post-type/meta_box.php:216
+msgid "Custom Session Link"
+msgstr ""
+
+#: post-type/meta_box.php:223 shortcodes/schedules-tab.php:105
+#: shortcodes/schedules.php:49
+msgid "Speaker(s)"
+msgstr ""
+
+#: post-type/meta_box.php:229
+msgid "Select Speaker"
+msgstr ""
+
+#: post-type/meta_box.php:233 shortcodes/schedules-tab.php:106
+#: shortcodes/schedules.php:50
+msgid "Time"
+msgstr ""
+
+#: post-type/meta_box.php:239 shortcodes/schedules-tab.php:107
+#: shortcodes/schedules.php:51
+msgid "Venue"
+msgstr ""
+
+#: post-type/photo-gallery.php:22 post-type/photo-gallery.php:23
+msgctxt "Gallery"
+msgid "Gallery"
+msgstr ""
+
+#: post-type/photo-gallery.php:24
+msgid "Photo Gallery"
+msgstr ""
+
+#: post-type/photo-gallery.php:25
+msgid "Parent Gallery:"
+msgstr ""
+
+#: post-type/photo-gallery.php:26
+msgid "All Gallery"
+msgstr ""
+
+#: post-type/photo-gallery.php:27
+msgid "View Gallery"
+msgstr ""
+
+#: post-type/photo-gallery.php:28
+msgid "Add New Gallery"
+msgstr ""
+
+#: post-type/photo-gallery.php:29
+msgid "New Gallery"
+msgstr ""
+
+#: post-type/photo-gallery.php:30
+msgid "Edit Gallery"
+msgstr ""
+
+#: post-type/photo-gallery.php:31
+msgid "Update Gallery"
+msgstr ""
+
+#: post-type/photo-gallery.php:32
+msgid "Search Gallery"
+msgstr ""
+
+#: post-type/photo-gallery.php:33 post-type/schedule.php:36
+#: post-type/speaker.php:36
+msgid "No article found"
+msgstr ""
+
+#: post-type/photo-gallery.php:34 post-type/schedule.php:37
+#: post-type/speaker.php:37
+msgid "No article found in Trash"
+msgstr ""
+
+#: post-type/photo-gallery.php:71
+#, php-format
+msgid "gallery updated. <a href=\"%s\">View gallery</a>"
+msgstr ""
+
+#: post-type/photo-gallery.php:72 post-type/schedule.php:74
+#: post-type/speaker.php:74
+msgid "Custom field updated."
+msgstr ""
+
+#: post-type/photo-gallery.php:73 post-type/schedule.php:75
+#: post-type/speaker.php:75
+msgid "Custom field deleted."
+msgstr ""
+
+#: post-type/photo-gallery.php:74
+msgid "gallery updated."
+msgstr ""
+
+#: post-type/photo-gallery.php:75
+#, php-format
+msgid "gallery restored to revision from %s"
+msgstr ""
+
+#: post-type/photo-gallery.php:76
+#, php-format
+msgid "gallery published. <a href=\"%s\">View gallery</a>"
+msgstr ""
+
+#: post-type/photo-gallery.php:77
+msgid "gallery saved."
+msgstr ""
+
+#: post-type/photo-gallery.php:78
+#, php-format
+msgid "gallery submitted. <a target=\"_blank\" href=\"%s\">Preview gallery</a>"
+msgstr ""
+
+#: post-type/photo-gallery.php:79
+#, php-format
+msgid ""
+"gallery scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview gallery</a>"
+msgstr ""
+
+#: post-type/photo-gallery.php:79 post-type/schedule.php:81
+#: post-type/speaker.php:81
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: post-type/photo-gallery.php:80
+#, php-format
+msgid ""
+"gallery draft updated. <a target=\"_blank\" href=\"%s\">Preview gallery</a>"
+msgstr ""
+
+#: post-type/schedule.php:25 post-type/schedule.php:26
+msgid "Schedule"
+msgstr ""
+
+#: post-type/schedule.php:27
+msgid "Schedules"
+msgstr ""
+
+#: post-type/schedule.php:28
+msgid "Parent Schedule:"
+msgstr ""
+
+#: post-type/schedule.php:29
+msgid "All Schedule"
+msgstr ""
+
+#: post-type/schedule.php:30
+msgid "View Schedule"
+msgstr ""
+
+#: post-type/schedule.php:31
+msgid "Add New Schedule"
+msgstr ""
+
+#: post-type/schedule.php:32
+msgid "New Schedule"
+msgstr ""
+
+#: post-type/schedule.php:33
+msgid "Edit Schedule"
+msgstr ""
+
+#: post-type/schedule.php:34
+msgid "Update Schedule"
+msgstr ""
+
+#: post-type/schedule.php:35
+msgid "Search Schedule"
+msgstr ""
+
+#: post-type/schedule.php:73
+#, php-format
+msgid "Schedule updated. <a href=\"%s\">View Schedule</a>"
+msgstr ""
+
+#: post-type/schedule.php:76
+msgid "Schedule updated."
+msgstr ""
+
+#: post-type/schedule.php:77
+#, php-format
+msgid "Schedule restored to revision from %s"
+msgstr ""
+
+#: post-type/schedule.php:78
+#, php-format
+msgid "Schedule published. <a href=\"%s\">View Schedule</a>"
+msgstr ""
+
+#: post-type/schedule.php:79
+msgid "Schedule saved."
+msgstr ""
+
+#: post-type/schedule.php:80
+#, php-format
+msgid ""
+"Schedule submitted. <a target=\"_blank\" href=\"%s\">Preview Schedule</a>"
+msgstr ""
+
+#: post-type/schedule.php:81
+#, php-format
+msgid ""
+"Schedule scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Schedule</a>"
+msgstr ""
+
+#: post-type/schedule.php:82
+#, php-format
+msgid ""
+"Schedule draft updated. <a target=\"_blank\" href=\"%s\">Preview Schedule</a>"
+msgstr ""
+
+#: post-type/speaker.php:25 post-type/speaker.php:27
+msgid "Speakers"
+msgstr ""
+
+#: post-type/speaker.php:26
+msgid "Speaker"
+msgstr ""
+
+#: post-type/speaker.php:28
+msgid "Parent Speaker:"
+msgstr ""
+
+#: post-type/speaker.php:29
+msgid "All Speaker"
+msgstr ""
+
+#: post-type/speaker.php:30
+msgid "View Speaker"
+msgstr ""
+
+#: post-type/speaker.php:31
+msgid "Add New Speaker"
+msgstr ""
+
+#: post-type/speaker.php:32
+msgid "New Speaker"
+msgstr ""
+
+#: post-type/speaker.php:33
+msgid "Edit Speaker"
+msgstr ""
+
+#: post-type/speaker.php:34
+msgid "Update Speaker"
+msgstr ""
+
+#: post-type/speaker.php:35
+msgid "Search Speaker"
+msgstr ""
+
+#: post-type/speaker.php:73
+#, php-format
+msgid "Speaker updated. <a href=\"%s\">View Speaker</a>"
+msgstr ""
+
+#: post-type/speaker.php:76
+msgid "Speaker updated."
+msgstr ""
+
+#: post-type/speaker.php:77
+#, php-format
+msgid "Speaker restored to revision from %s"
+msgstr ""
+
+#: post-type/speaker.php:78
+#, php-format
+msgid "Speaker published. <a href=\"%s\">View Speaker</a>"
+msgstr ""
+
+#: post-type/speaker.php:79
+msgid "Speaker saved."
+msgstr ""
+
+#: post-type/speaker.php:80
+#, php-format
+msgid "Speaker submitted. <a target=\"_blank\" href=\"%s\">Preview Speaker</a>"
+msgstr ""
+
+#: post-type/speaker.php:81
+#, php-format
+msgid ""
+"Speaker scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Speaker</a>"
+msgstr ""
+
+#: post-type/speaker.php:82
+#, php-format
+msgid ""
+"Speaker draft updated. <a target=\"_blank\" href=\"%s\">Preview Speaker</a>"
+msgstr ""
+
+#: post-type/speaker.php:102
+msgctxt "taxonomy general name"
+msgid "Speaker Categories"
+msgstr ""
+
+#: post-type/speaker.php:103
+msgctxt "taxonomy singular name"
+msgid "Speaker Category"
+msgstr ""
+
+#: post-type/speaker.php:104
+msgid "Search Category"
+msgstr ""
+
+#: post-type/speaker.php:105
+msgid "All Category"
+msgstr ""
+
+#: post-type/speaker.php:106
+msgid "Parent Category"
+msgstr ""
+
+#: post-type/speaker.php:107
+msgid "Parent Category:"
+msgstr ""
+
+#: post-type/speaker.php:108
+msgid "Edit Category"
+msgstr ""
+
+#: post-type/speaker.php:109
+msgid "Update Category"
+msgstr ""
+
+#: post-type/speaker.php:110
+msgid "Add New Category"
+msgstr ""
+
+#: post-type/speaker.php:111
+msgid "New Category Name"
+msgstr ""
+
+#: post-type/speaker.php:112
+msgid "Speaker Category"
+msgstr ""
+
+#: shortcodes/google-map.php:47 shortcodes/google-map.php:51
+msgid "Google MAP"
+msgstr ""
+
+#: shortcodes/google-map.php:52 shortcodes/schedules-tab.php:212
+#: shortcodes/schedules.php:144 shortcodes/speaker-id.php:197
+#: shortcodes/speaker.php:202 shortcodes/themeum-gallery-list.php:124
+msgid "Themeum"
+msgstr ""
+
+#: shortcodes/google-map.php:60
+msgid "Latitude"
+msgstr ""
+
+#: shortcodes/google-map.php:67
+msgid "Longitude"
+msgstr ""
+
+#: shortcodes/google-map.php:74
+msgid "Minimum Height"
+msgstr ""
+
+#: shortcodes/google-map.php:81
+msgid "Color:"
+msgstr ""
+
+#: shortcodes/google-map.php:88
+msgid "Address"
+msgstr ""
+
+#: shortcodes/schedules-tab.php:207
+msgid "Schedules Listing 2"
+msgstr ""
+
+#: shortcodes/schedules-tab.php:211 shortcodes/schedules.php:139
+#: shortcodes/schedules.php:143
+msgid "Schedules Listing"
+msgstr ""
+
+#: shortcodes/schedules-tab.php:217
+msgid "Type"
+msgstr ""
+
+#: shortcodes/schedules-tab.php:224
+msgid "Put Here Schedule Slug"
+msgstr ""
+
+#: shortcodes/schedules-tab.php:226
+msgid "Schedules specify by comma, eg: schedule1,schedule2,schedule3"
+msgstr ""
+
+#: shortcodes/schedules.php:150
+msgid "Select Schedules"
+msgstr ""
+
+#: shortcodes/schedules.php:158 shortcodes/speaker-id.php:219
+#: shortcodes/speaker.php:229
+msgid "Custom Class"
+msgstr ""
+
+#: shortcodes/speaker-id.php:192
+msgid "Speaker Listing By ID"
+msgstr ""
+
+#: shortcodes/speaker-id.php:196 shortcodes/speaker.php:197
+#: shortcodes/speaker.php:201
+msgid "Speaker Listing"
+msgstr ""
+
+#: shortcodes/speaker-id.php:204
+msgid "Put Here ID"
+msgstr ""
+
+#: shortcodes/speaker-id.php:206
+msgid "Put Here Speaker ID separate by comma eg: 12,23,36"
+msgstr ""
+
+#: shortcodes/speaker-id.php:212 shortcodes/speaker.php:222
+#: shortcodes/themeum-gallery-list.php:137
+msgid "Number Of Column"
+msgstr ""
+
+#: shortcodes/speaker.php:208
+msgid "Category Filter"
+msgstr ""
+
+#: shortcodes/speaker.php:215
+msgid "Number Of Post Show"
+msgstr ""
+
+#: shortcodes/themeum-gallery-list.php:119
+msgid "Gallery List"
+msgstr ""
+
+#: shortcodes/themeum-gallery-list.php:123
+msgid "Widget Project"
+msgstr ""
+
+#: shortcodes/themeum-gallery-list.php:129
+msgid "Project Name"
+msgstr ""
+
+#: shortcodes/themeum-gallery-list.php:131
+msgid "Select your Gallery List"
+msgstr ""
+
+#: shortcodes/themeum-gallery-list.php:144
+msgid "Limit"
+msgstr ""
+
+#: shortcodes/themeum-gallery-list.php:152
+msgid "Image Margin"
+msgstr ""
+
+#: shortcodes/themeum-gallery-list.php:159
+msgid "Custom Class "
+msgstr ""
